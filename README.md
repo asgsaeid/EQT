@@ -93,14 +93,15 @@ This approach allows for assessing the depth of a model's comprehension and reas
 If you use this framework in your research, please cite the corresponding paper:
 
 ```bibtex
-@article{asgari2025exploring,
-  title={Exploring the Discrepancy Between Explanation and Comprehension in Large Language Models},
-  author={Saeid Asgari Taghanaki and Joao Monteiro},
+@article{...,
+  title={...},
+  author={...},
   journal={},
-  year={2025},
-  note={arXiv:xxxx.xxxxx}
+  year={...},
+  note={arXiv:2501.11721}
 }
 ```
+
 
 ## Reference
 The methodology and metrics used in this repository are based on the paper:
@@ -109,7 +110,7 @@ The methodology and metrics used in this repository are based on the paper:
 
 Saeid Asgari Taghanaki, Joao Monteiro
 
-[Read the paper on arXiv](https://arxiv.org/abs/xxxx.xxxxx).
+[Read the paper on arXiv](https://arxiv.org/abs/2501.11721).
 
 
 

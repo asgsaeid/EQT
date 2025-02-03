@@ -93,12 +93,11 @@ This approach allows for assessing the depth of a model's comprehension and reas
 If you use this framework in your research, please cite the corresponding paper:
 
 ```bibtex
-@article{...,
-  title={...},
-  author={...},
-  journal={},
-  year={...},
-  note={arXiv:2501.11721}
+@article{taghanaki2025explain,
+  title={Explain-Query-Test: Self-Evaluating LLMs Via Explanation and Comprehension Discrepancy},
+  author={Taghanaki, Saeid Asgari and Monteiro, Joao},
+  journal={arXiv preprint arXiv:2501.11721},
+  year={2025}
 }
 ```
 
